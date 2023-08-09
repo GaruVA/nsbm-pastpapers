@@ -31,6 +31,7 @@ int main() {
         }
         printf("\n");
     }
+    printf("\n");
 
     //display 2nd array
     printf("Matrix form of Array 2:\n");
